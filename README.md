@@ -1,7 +1,7 @@
-# Web3 Foundation Grants Program<!-- omit in toc -->
+# Interlay Labs Grants Program<!-- omit in toc -->
 
 <p align="center">
-  <img src="src/Grants_Program.png" style="width:1300px";>
+  <img src="src/Grants-Program.png" style="width:1300px";>
 </p>
 
 
@@ -22,38 +22,60 @@
   - [Additional information](#additional-information)
   - [Real-time conversation](#real-time-conversation)
 - [:rocket: Alternative Funding Sources](#rocket-alternative-funding-sources)
+  - [Substrate Builders Program vs Treasury vs Web3 Grants](#substrate-builders-program-vs-treasury-vs-web3-grants)
+  - [Substrate Builders Program](#substrate-builders-program)
   - [Treasury](#treasury)
   - [Hackathons](#hackathons)
   - [Other Grant Programs](#other-grant-programs)
 
 ## :wave: Introduction
 
-As part of our commitment to promoting the Web3 ecosystem, we offer a comprehensive grants program focused on funding software development and research efforts related to **Polkadot, Kusama, [Substrate](https://github.com/paritytech/substrate) and [ink!](https://github.com/paritytech/ink)**. For more information about the Web3 Foundation, please visit the [About page](https://web3.foundation/about/) on our website.
+As part of our mission to unlock Bitcoin's full potential in a decentralized ecosystem, we offer a grants program focused on funding software development and research efforts related to Interlay and interBTC.
+
+For more infos about the project, please visit our [website](http://interlay.io/) and [documentation](https://docs.interlay.io/).
+
+This document is inspired by the [Web3 Foundation's grant program](https://github.com/w3f/Grants-Program). 
 
 ### Guidelines
 
-Anyone is welcome to apply for a grant. Projects funded through our programs are broad in scope, but our focus lies on strong **technical** projects that add value to the ecosystem.
+**Who can apply?**
+
+Anyone is welcome to apply for a grant. Our focus mainly lies on strong **technical** projects that add value to the ecosystem.
+
+**Hints for good submissions**
 
 Generally, your project will have better chances to be accepted if:
 
-- It presents a **well-researched** or tested concept, for which ideally you are able to show some prior work.
-- You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources or an existing business model.
-- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. You will be asked to provide the GitHub profiles of your team members as part of your application, which we will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms.
-- Your application is **rich in technical details** and well-defined.
-- You can clearly present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
+- **Content & quality**. It presents a well-researched or tested concept, for which ideally you are able to show some prior work.
+- **Longevity**. You can demonstrate that the project will be maintained after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources or an existing business model.
+- **Team experience**. Your team has proven experience with the relevant languages and technologies and/or a strong technical background. You will be asked to provide the GitHub profiles of your team members as part of your application, which we will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms.
+- **Application quality**. Your application is rich in technical details and well-defined.
+- **Novelty**. You can clearly present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
+
+**Submission requirements**
 
 Additionally, it must fulfill the following requirements:
 
-- All code produced as part of a grant must be **open-sourced**, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.
-- We do not award grants for projects that have been the object of a successful token sale.
-- As a general rule, teams are asked to finish a grant before applying for another one.
-- Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
+- **Open source**.  All code produced as part of a grant must be open-sourced, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.
+- **No token sale**. We do not award grants for projects that have been the object of a successful token sale.
+- **Complete first, before applying for next.**. As a general rule, teams are asked to finish a grant before applying for another one.
+- **No gambling or illegal activity**. Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
 
-In addition to the information provided on your application, note that your project will need to comply with our [Guidelines for Milestone Deliverables](docs/milestone-deliverables-guidelines.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product.
+**Milestone Deliverable requirements**
 
-Please also heed our [Announcement Guidelines](docs/announcement-guidelines.md) for grant-related communications.
+In addition to the information provided on your application, your project will need to comply with our [Guidelines for Milestone Deliverables](docs/milestone-deliverables-guidelines.md). 
+
+In particular, we require all projects to *create documentation that explains how their project works*. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your work.
+
+**Marketing and announcements**
+
+Please read our [Announcement Guidelines](docs/announcement-guidelines.md) for grant-related communications.
+
+**Licensing**
 
 Finally, we take licensing and the right of all teams in and outside the ecosystem to be recognised for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery **will lead to immediate termination**. Please reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
+
+**Code of conduct**
 
 We also try to enforce our [code of conduct](CODE_OF_CONDUCT.md) and based on this may [block users](https://github.blog/2016-04-04-organizations-can-now-block-abusive-users/).
 
