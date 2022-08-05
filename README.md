@@ -42,6 +42,8 @@ This document is inspired by the [Web3 Foundation's grant program](https://githu
 
 Anyone is welcome to apply for a grant. Our focus mainly lies on strong **technical** projects that add value to the ecosystem.
 
+For educational and community building projects, please head over to the [Interlay Innovator Program](https://medium.com/interlay/announcing-the-innovator-programme-1f311a5ec1df).
+
 **Hints for good submissions**
 
 Generally, your project will have better chances to be accepted if:
@@ -81,65 +83,43 @@ We also try to enforce our [code of conduct](CODE_OF_CONDUCT.md) and based on th
 
 ### Project ideas
 
-An overview of existing projects in the Web 3.0 Technology Stack along with broad project ideas we would potentially be interested in funding can be found [here](docs/polkadot_stack.md), as well as a list of previously accepted applications [here](docs/accepted_grant_applications.md).
+- [Requests For Proposals](rfps): a list of projects suggested by the Interlay team (mostly tooling, dashboards, etc.)
+- [Previously accepted grant applications](docs/accepted_grant_applications.md)
 
-[Requests For Proposals](rfps) (RFPs) represent concrete ideas for projects that we would like to see implemented. Several teams may apply for the same RFP, so even if another team has already applied to implement a certain RFP, we invite you to do the same if you're interested.
+If you have a **good concept of the technical challenges** that your idea entails and would like feedback before applying, you can send us an [email to grants [at] interlay.io](mailto:grants@interlay.io) and tell us about it.
 
-Finally, you don't need to start your own project in order to be eligible for a grant. Instead, some teams choose to port existing work to Substrate, where the pertinent licenses allow, or even to contribute to an existing open-source project. In the latter case, you should check in advance that the maintainers of the project are interested in your contribution, and the acceptance of the milestones will generally be tied to the inclusion of your work in said project. See the [Maintenance Grants section](#hammer_and_wrench-maintenance-grants) for more info.
-
-If you have a **good concept of the technical challenges** that your idea entails and would like feedback before applying, you can send us an [email](mailto:grants@web3.foundation) and tell us about it.
+> TODO: create grants@interlay.io mailing list
 
 ### Support
 
-The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. If this sounds like something you would like however, you may also want to apply to Parity's [Substrate Builders Program](https://www.substrate.io/builders-program/), which provides hands-on technical, ecosystem and strategical long-term support and access to extensive resources. You can find general documentation and more information on Substrate on the [Substrate Developer Hub](https://substrate.dev/), and we encourage you to join the [community](https://substrate.dev/en/community) in order to get help with specific issues or to stay up to date with the most recent developments.
+The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. 
 
 For questions about the grants program itself, see our [FAQ](docs/faq.md#frequently-asked-questions).
 
 ### Team
 
-#### W3F Grants Committee<!-- omit in toc -->
+#### Interlay Grants Committee<!-- omit in toc -->
 
-The committee consists of individuals who know the funding priorities of the Polkadot ecosystem, and is responsible for evaluating grant applications and providing feedback on these.
+The committee consists of individuals who know the funding priorities of the Interlay ecosystem, and is responsible for evaluating grant applications and providing feedback on these.
 
 In cases where a niche expert opinion is desirable, one of the committee members may request such a review.
 
-- [Santiago Balaguer](https://github.com/SBalaguer)
-- [Aeron Buchanan](https://github.com/aeronbuchanan)
-- [Gautam Dhameja](https://github.com/gautamdhameja)
-- [Ashley Grevelink](https://github.com/cruikshankss)
-- [David Hawig](https://github.com/Noc2)
-- [Sebastian Müller](https://github.com/semuelle)
-- [Bill Laboon](https://github.com/laboon)
-- [Raul Romanutti](https://github.com/rrtti)
-- [Aleixo Sánchez](https://github.com/alxs)
-- [Seraya Takahashi](https://github.com/takahser)
-- [Reto Trinkler](https://github.com/retotrinkler)
-- [Benjamin Weiß](https://github.com/BenWhiteJam)
-- [Gavin Wood](https://github.com/gavofyork)
+- [Alexandru Bogdan Bleau](https://github.com/alexbleau)
+- [Dominik Harz](https://github.com/gregdhill)
+- [Gregory Hill](https://github.com/nud3l)
+- [Tom Jeatt](https://github.com/tomjeatt)
+- [Caroline Mascarin](https://github.com/carolinemascarin)
+- [Alexei Zamyatin](https://github.com/alexeiZamyatin)
 
-#### W3F Grants Evaluators<!-- omit in toc -->
+
+#### Interlay Grants Evaluators<!-- omit in toc -->
 
 Evaluators are individuals able to evaluate the technology delivered as a result of the Grants Program. The committee has the right to add or remove evaluators on the basis of supermajority.
-
-- [Ashley Grevelink](https://github.com/cruikshankss)
-- [David Hawig](https://github.com/Noc2)
-- [Sebastian Müller](https://github.com/semuelle)
-- [Aleixo Sánchez](https://github.com/alxs)
-- [Seraya Takahashi](https://github.com/takahser)
-
-#### W3F Operations Team<!-- omit in toc -->
-
-The Operations Team takes care of legal documents, invoicing and remittances.
-
-- [Melanie Diener](https://github.com/meldien)
-- [Federica Dubbini](https://github.com/fededubbi)
-- [Kasper Mai Jørgensen](https://github.com/KasperJor)
-- [Rouven Pérez](https://github.com/RouvenP)
 
 
 ## :level_slider: Levels
 
-The W3F Grants Program offers different grant levels to help you best depending on your current stage.
+The Interlay Grants Program offers different grant levels to help you best depending on your current stage.
 
 ### :hatching_chick: Level 1 (= InstaGrants)<!-- omit in toc -->
 
@@ -153,23 +133,25 @@ The W3F Grants Program offers different grant levels to help you best depending 
 - **Target:** Small teams/start-ups
 - **Amount:** Up to $30,000
 - **Requirements:** 3 approvals
-- **Benefits:** All of the above + [co-promotion](./docs/announcement-guidelines.md#announcement-guidelines), [Grants Program badge](./docs/grant-badge-guidelines.md), fast track to [Substrate Builders Program](https://www.substrate.io/builders-program/)
+- **Benefits:** All of the above + [co-promotion](./docs/announcement-guidelines.md#announcement-guidelines), [Grants Program badge](./docs/grant-badge-guidelines.md)
 
 ### :rooster: Level 3<!-- omit in toc -->
 
 - **Target:** Companies/foundations with a proven track record
 - **Amount:** Unlimited
-- **Requirements:** 5 approvals (for >$100k: Web3 Foundation Council approval + Pitch call)
-- **Benefits:** All of the above + VC introductions
+- **Requirements:** 5 approvals (for >$100k: Council approval + Pitch call)
+- **Benefits:** All of the above + VC and integration partner introductions
 
 ## :pencil: Process
 
-> **:loudspeaker:** The process below is independent of the [level](#level_slider-levels). Payment is made in Bitcoin, USDT, USDC, DAI or aUSD. If you want to apply in **private**  and/or you need to be paid out in **fiat**, you can apply [:arrow_right: here](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform). Note that this is generally a slower process and imposes stricter requirements on applicants.
+> **:loudspeaker:** The process below is independent of the [level](#level_slider-levels). Payment is made in INTR. If you want to apply in **private**  and/or you need to be paid out in **fiat**, you can apply [:arrow_right: here](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform). Note that this is generally a slower process and imposes stricter requirements on applicants.
+
+> TODO: STOPPED HERE
 
 ### 1. Application
 
-   0. Please read our [FAQs](https://github.com/w3f/Grants-Program/blob/master/docs/faq.md), [category guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/grant_guidelines_per_category.md), [announcement guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/announcement-guidelines.md) and [Terms & Conditions](https://github.com/w3f/Grants-Program/blob/master/docs/T%26Cs.md) to familiarize yourself with the subtleties of grants, applications and the program as a whole.
-   1. [Fork](https://github.com/w3f/Grants-Program/fork) this repository.
+   0. Please read our [FAQs](https://github.com/interlay/Grants-Program/blob/master/docs/faq.md), [category guidelines](https://github.com/interlay/Grants-Program/blob/master/docs/grant_guidelines_per_category.md), [announcement guidelines](https://github.com/interlay/Grants-Program/blob/master/docs/announcement-guidelines.md) and [Terms & Conditions](https://github.com/interlay/Grants-Program/blob/master/docs/T%26Cs.md) to familiarize yourself with the subtleties of grants, applications and the program as a whole.
+   1. [Fork](https://github.com/interlay/Grants-Program/fork) this repository.
    2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/w3f/Grants-Program/master/applications/application-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**. In the case of a maintenance application, use the maintenance template ([`maintenance template`](maintenance/maintenance-template.md)) instead.
    3. Name the new file after your project: `project_name.md`.
    4. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Grant guidelines for most popular grant categories](docs/grant_guidelines_per_category.md) and make sure your deliverables present a similar same level of detail. To get an idea of what a strong application looks like, you can have a look at the following examples:  [1](https://github.com/w3f/Grants-Program/blob/master/applications/project_aurras_mvp_phase_1.md), [2](https://github.com/w3f/Grants-Program/blob/master/applications/project_bodhi.md), [3](https://github.com/w3f/Grants-Program/blob/master/applications/pontem.md), [4](https://github.com/w3f/Grants-Program/blob/master/applications/spartan_poc_consensus_module.md). Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
