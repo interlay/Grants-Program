@@ -40,7 +40,7 @@ We also cross-promote the most recent projects and their milestones on Twitter o
 technology stack of decentralized finance for Bitcoin. It was established in London, UK by co-founders Alexei Zamyatin (CEO) and Dominik Harz (CTO). InterBTC is the Interlay's flagship project."
     
 6. Social connections
-   - The following text regarding Web3 Foundation's social presence can be added at the end of your article: "Learn more about Web3 Foundation by visiting their [website](https://interlay.io/), and stay up to date with the latest developments by following them on [Medium](https://medium.com/interlay) or [Twitter](https://twitter.com/InterlayHQ)."
+   - The following text regarding Interlay's social presence can be added at the end of your article: "Learn more about Web3 Foundation by visiting their [website](https://interlay.io/), and stay up to date with the latest developments by following them on [Medium](https://medium.com/interlay) or [Twitter](https://twitter.com/InterlayHQ)."
   
 ## Recommended language
   
