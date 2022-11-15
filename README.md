@@ -138,7 +138,7 @@ The Interlay Grants Program offers different grant levels to help you best depen
 ### :rooster: Level 3<!-- omit in toc -->
 
 - **Target:** Companies/foundations with a proven track record
-- **Amount:** Unlimited
+- **Amount:** $30,000 +
 - **Requirements:** 5 approvals (for >$100k: Council approval + Pitch call)
 - **Benefits:** All of the above + VC and integration partner introductions
 
