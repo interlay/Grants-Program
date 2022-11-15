@@ -1,6 +1,6 @@
-# Usage guidelines for the W3F Grants Program badge
+# Usage guidelines for the Interlay Labs Grants Program badge
 
-<img align="right" width="400" src="../src/badge_black.svg">
+<img align="right" width="400" src="../src/Interlay_Grants.png">
  
 **Once a project's first milestone has been accepted**, we intend to help teams acknowledge their grant publicly while observing the foundation’s guidelines.
 
@@ -22,6 +22,6 @@ To that end, we’ve created a badge for grant recipients. This is available for
   - use it in any other context that could misrepresent your relationship with the Web3 Foundation.
 
 
-Also, please don't use the **name or logo of the Web3 Foundation** in any context that could misrepresent your relationship with Web3 Foundation. Infringement of these guidelines can result in an immediate annulment of the grant.
+Also, please don't use the **name or logo of the  Interlay Labs Grants Program ** in any context that could misrepresent your relationship with Web3 Foundation. Infringement of these guidelines can result in an immediate annulment of the grant.
 
-In case of any questions, please don’t hesitate to reach out to us at grantsPR@web3.foundation.
+In case of any questions, please don’t hesitate to reach out to us at grants@interlay.io
