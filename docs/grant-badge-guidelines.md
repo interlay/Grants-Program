@@ -4,7 +4,7 @@
  
 **Once a project's first milestone has been accepted**, we intend to help teams acknowledge their grant publicly while observing the foundation’s guidelines.
 
-To that end, we’ve created a badge for grant recipients. This is available for download in four formats under [web3.foundation/grants/badge](https://web3.foundation/grants/badge).
+To that end, we’ve created a badge for grant recipients. This is available for download in four formats under [Interlay Labs Grants Program Badges](src/Interlay-badges.zip).
 
 *Before you begin using the badge, please note the following points:*
 
