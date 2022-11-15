@@ -24,7 +24,7 @@ We also cross-promote the most recent projects and their milestones on Twitter o
 
 1. A blog post header image
    - An image helps when sharing the announcement on social networks. It's more prominent in feeds and looks more professional.
-   - Image ideas include showing how W3F or Polkadot fit into your flow. Or you can simply put the teams' logos next to each other.
+   - Image ideas include showing how this grants program or Polkadot fit into your flow. Or you can simply put the teams' logos next to each other.
 2. About your team
    - This is a chance to share more about your project and what it does.
    - You can also highlight additional use cases for this new integration.
@@ -45,7 +45,7 @@ technology stack of decentralized finance for Bitcoin. It was established in Lon
 ## Recommended language
   
 1. Use specific verbs such as integrate, support or build.
-2. Don't use descriptors like partner/partnership, collaborations, affiliate, strategic or long-term in these announcements—due to the various and evolving ways W3F works with the ecosystem.
+2. Don't use descriptors like partner/partnership, collaborations, affiliate, strategic or long-term in these announcements—due to the various and evolving ways Interlay Labs Grants Program works with the ecosystem.
 3. Don't describe your technology as the "first" to build on Polkadot—timing for launch implementations across all our projects is indefinite.
 4. Don't indicate that Interlay or Polkadot prefers a certain technology over all others:
    - As such, do not use: "Interlay recommends that teams use this tech to build X"
