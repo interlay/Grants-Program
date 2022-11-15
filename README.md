@@ -133,7 +133,7 @@ The Interlay Grants Program offers different grant levels to help you best depen
 - **Target:** Small teams/start-ups
 - **Amount:** Up to $30,000
 - **Requirements:** 3 approvals
-- **Benefits:** All of the above + [co-promotion](./docs/announcement-guidelines.md#announcement-guidelines), [Grants Program badge](./docs/grant-badge-guidelines.md)
+- **Benefits:** All of the above + [Co-promotion](./docs/announcement-guidelines.md#announcement-guidelines), [Grants Program Badge](./docs/grant-badge-guidelines.md)
 
 ### :rooster: Level 3<!-- omit in toc -->
 
@@ -300,4 +300,4 @@ Below is a list of other grant programs in the Polkadot/Substrate ecosystem:
 
 ## :information_source: License<!-- omit in toc -->
 
-[Apache License 2.0](LICENSE) © Web3 Foundation
+[Apache License 2.0](LICENSE) © Interlay ltd.
