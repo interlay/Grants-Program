@@ -51,4 +51,4 @@ technology stack of decentralized finance for Bitcoin. It was established in Lon
    - As such, do not use: "Interlay recommends that teams use this tech to build X"
    - Instead speak of the merits of the tech: "This technology provides great utility for the Polkadot network through..."
 
-We look forward to working with you in creating the next generation of the internet! If you have any questions or would like to be included in our next announcement, please email grantsPR@interlay.io
+We look forward to working with you in creating the next generation of the internet! If you have any questions or would like to be included in our next announcement, please email grants@interlay.io
