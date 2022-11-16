@@ -126,19 +126,19 @@ The Interlay Grants Program offers different grant levels to help you best depen
 - **Target:** Individuals & small teams
 - **Amount:** Up to $10,000
 - **Requirements:** 2 approvals
-- **Benefits:** Feedback during application process and evaluation, introduction to related teams/projects
+- **Benefits:** [Grants Program badge](./docs/grant-badge-guidelines.md), ongoing support from Interlay team, introduction to related teams/projects
 
 ### :baby_chick: Level 2<!-- omit in toc -->
 
 - **Target:** Small teams/start-ups
 - **Amount:** Up to $30,000
 - **Requirements:** 3 approvals
-- **Benefits:** All of the above + [co-promotion](./docs/announcement-guidelines.md#announcement-guidelines), [Grants Program badge](./docs/grant-badge-guidelines.md)
+- **Benefits:** All of the above + [Co-promotion](./docs/announcement-guidelines.md#announcement-guidelines),
 
 ### :rooster: Level 3<!-- omit in toc -->
 
 - **Target:** Companies/foundations with a proven track record
-- **Amount:** Unlimited
+- **Amount:** $30,000 +
 - **Requirements:** 5 approvals (for >$100k: Council approval + Pitch call)
 - **Benefits:** All of the above + VC and integration partner introductions
 
@@ -222,7 +222,7 @@ Please note that:
 
 | <img src="src/web.png?s=50" width="50"> | <img src="src/twitter.png?s=50" width="50"> | <img src="src/medium.png?s=50" width="50"> | <img src="src/like.png?s=50" width="50"> | <img src="src/reddit.png?s=50" width="50"> | <img src="src/youtube-play.png?s=50" width="50"> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [W3F Website](https://web3.foundation) | [W3F Twitter](https://twitter.com/web3foundation) | [W3F Medium](https://medium.com/web3foundation) | [Polkadot Wiki](https://wiki.polkadot.network/en/) | [Web 3.0 Reddit](https://www.reddit.com/r/web3) | [W3F YouTube](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) |
+| [Interlay Website](https://http://interlay.io/) | [Interlay Twitter](https://twitter.com/InterlayHQ) | [Interlay Medium](https://medium.com/interlay) | [Polkadot Wiki](https://wiki.polkadot.network/en/) | [Polkadot Website](https://polkadot.network) | [Interlay YouTube](https://www.youtube.com/c/InterlayHQ) |
 
 ### Real-time conversation
 
@@ -300,4 +300,4 @@ Below is a list of other grant programs in the Polkadot/Substrate ecosystem:
 
 ## :information_source: License<!-- omit in toc -->
 
-[Apache License 2.0](LICENSE) © Web3 Foundation
+[Apache License 2.0](LICENSE) © Interlay ltd.
