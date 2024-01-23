@@ -125,8 +125,11 @@ Links to precedent projects:
 ### Team LinkedIn Profiles (if available)
 
 Barth Houot: [LinkedIn](https://www.linkedin.com/in/barth%C3%A9lemy-houot-64baa019b/)
+
 Enzo Soyer: [LinkedIn](https://www.linkedin.com/in/enzo-soyer/)
+
 Gabriel Benillouche: [LinkedIn](https://www.linkedin.com/in/gbenillouche/)
+
 Arthur Kieffer: [LinkedIn](https://www.linkedin.com/in/arthur-kieffer/)
 
 
