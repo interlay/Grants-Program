@@ -280,11 +280,7 @@ Our commitment is to ensure InterBuild not only thrives as a tool but also contr
 
 **How did you hear about the Grants Program?** Twitter
 
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+The Stellar Community Fund has already granted us to develop a similar solution on Soroban. Our aim is to create an ecosystem of no-code plugins for the blockchains we consider most promising. In this way, we aim to become the reference for the development of no-code Dapps, enhancing the visibility of both our products and the supported blockchains. Through this, we aim to make blockchain technology more accessible and widespread.
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
 >
