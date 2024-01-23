@@ -91,31 +91,36 @@ Arthur Kieffer - Bubble.io plugin Developer at InterBuild
 
 ### Contact
 
-- **Contact Name:**Barthélemy HOUOT  
+- **Contact Name:** Barthélemy HOUOT  
 - **Contact Email:** barthelemy.houot@gmail.com 
 - **Website:** [adapptable.dev](https://adapptable.dev)
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+- **Registered Address:** 9 Rue Des Colonnes, 75002 Paris, France 
+- **Registered Legal Entity:** Adapptable
 
+  
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+The InterBuild team embodies a fusion of distinct yet complementary expertise, essential for the groundbreaking nature of our project. Gabriel Benillouche's experience in blockchain development underpins the technical foundation of InterBuild. His hands-on approach to crafting blockchain solutions ensures the technical robustness necessary for simplifying complex blockchain processes.
 
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+Complementing this, Enzo Soyer brings a track record of remarkable achievements in open-source projects. Under his stewardship at Tenk, the open-source standard for launching NFT collections on the Near protocol now commands usage by over 90% of NFT projects in the ecosystem, showcasing the real-world impact and acceptance of his work. Furthermore, Smart Deploy, a standout project from his tenure, emerges as one of the first functioning Dapps on the Soroban testnet. Its ongoing integration by various projects testifies to its utility and innovation in the blockchain space.
+
+Arthur Kieffer’s expertise in converting SDKs into user-friendly Bubble.io plugins is pivotal. His ability to translate complex technology into accessible tools is directly aligned with InterBuild's mission. Arthur's knack for creating intuitive interfaces is not just about simplification; it's about empowering users to harness the full potential of decentralized applications with ease and efficiency.
+
+This blend of Gabriel’s technical prowess in blockchain, Enzo's success in influential open-source projects, and Arthur’s skill in making technology accessible, forms a synergistic core for InterBuild. It's not just their individual experiences that set our team apart; it's how these experiences interlink to create a holistic approach to making blockchain technology accessible and adaptable for a wide range of users.
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+[https://github.com/adapptabledev](https://github.com/AdapptableDev )
 
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+Links to precedent projects: 
+- Smart Deploy, a Tenk studio product: [https://www.smartdeploy.dev/](https://www.smartdeploy.dev/)
+ -Tenk open source NFT standard: [https://tenk.app/](https://tenk.app/)
+- AstroDao, a Tenk studio product: [https://astrodao.com/](https://astrodao.com/)
+- Cube, one of our collaborator's company in no-code plugin development: https://en.cube.fr/ 
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
 
 ### Team LinkedIn Profiles (if available)
 
