@@ -282,6 +282,7 @@ Our commitment is to ensure InterBuild not only thrives as a tool but also contr
 
 The Stellar Community Fund has already granted us to develop a similar solution on Soroban. Our aim is to create an ecosystem of no-code plugins for the blockchains we consider most promising. In this way, we aim to become the reference for the development of no-code Dapps, enhancing the visibility of both our products and the supported blockchains. Through this, we aim to make blockchain technology more accessible and widespread.
 
+Please find the project's pitch deck here: [https://www.canva.com/interbuild ](https://www.canva.com/design/DAF6tLwgW_w/7e0HgdMMe1ht7f3iXEtQjg/view?utm_content=DAF6tLwgW_w&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
 >
 > See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
