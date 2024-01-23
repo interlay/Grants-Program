@@ -48,16 +48,6 @@ Our team is passionate about democratizing blockchain technology. We believe in 
 
 ### Project Details
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
-
 **How It Works and Its Use of Polkadot:** 
 InterBuild leverages the capabilities of Polkadot through a combination of **JSON-API calls and pre-configured workflow templates**. It transforms complex blockchain actions, like smart contract operations and token transactions, into simpler, manageable API calls. These are smoothly integrated into Bubble.io’s no-code environment, making it possible for both technical and non-technical users to efficiently create and manage Dapps on Polkadot. 
 For a deeper insight into the architecture and technical workings of InterBuild, please refer to the accompanying architecture document present on the next page : 
@@ -69,16 +59,23 @@ Our project leverages Bubble's no-code platform for plugin development. This cho
 **Project Limitations:**
 Focusing on Bubble's no-code platform, our project is tailored for simplicity and user accessibility. This approach inherently limits the ability to implement highly complex or deeply customized blockchain functionalities. The plugin is designed primarily for Polkadot's ecosystem, and may not immediately support other blockchains. While offering ease of use, the project will not cater to developers seeking in-depth, code-level control over blockchain interactions or those needing advanced, specialized blockchain features beyond the scope of Bubble's capabilities.
 
+
 ### Ecosystem Fit
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+**Ecosystem Fit:** Our project fills a unique role in the Polkadot ecosystem by providing an intuitive, no-code platform for DApp creation. This integration significantly lowers the technical barrier, inviting a broader range of participants into the blockchain space. By facilitating easy development of DApps, our project enhances the overall diversity and utility of the Polkadot ecosystem, encouraging innovation and user engagement.
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+**Target Audience:** The target audience for our project is quite diverse. It includes UI developers and designers looking for streamlined ways to build DApps, non-technical users curious about blockchain technology, and existing DApp user bases seeking more accessible interaction methods. Our platform is particularly appealing to those who wish to engage with blockchain technology but are deterred by the complexity of traditional development methods. More precisely, our target users would be: 
+- _No-code Developers:_ Individuals or teams looking to build blockchain applications without extensive coding knowledge.
+- _Advanced Developers:_ Enables experienced programmers to efficiently build sophisticated blockchain applications, leveraging advanced features for enhanced functionality.
+- _Small and Medium Enterprises (SMEs):_ Businesses seeking to integrate blockchain technology into their operations without significant investment in specialized blockchain development teams.
+- _Educational Institutions:_ Educators and students who use the plugin as a learning tool for blockchain technology and application development.
+- _Blockchain Enthusiasts:_ Individuals interested in creating DApps for personal use or to understand blockchain technology better.
+- _Innovation Labs:_ Research and development groups exploring blockchain's potential for new use cases.
+
+
+**Meeting Needs:** The primary need our project addresses is the complexity barrier in blockchain application development. By simplifying the process of creating and deploying DApps, we make blockchain technology more approachable and usable for a wider audience. This democratization of technology not only encourages wider adoption but also stimulates innovation by allowing more people to contribute ideas and solutions.
+
+**Similar Projects and Differentiation:** In the Substrate/Polkadot/Kusama ecosystem, there are projects aimed at simplifying blockchain interactions, but our no-code approach is what sets us apart. We prioritize ease of use and accessibility above all, which is distinct from other projects that may still require some level of technical knowledge. In broader ecosystems, while similar no-code platforms exist, our specific focus on integrating with Polkadot and catering to blockchain applications offers a unique value proposition, bridging the gap between complex blockchain technology and practical, everyday use.
 
 ## Team :busts_in_silhouette:
 
