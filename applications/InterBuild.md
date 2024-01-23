@@ -24,17 +24,17 @@ Please provide the following:
 **The Problem:** The development of Dapps is often hindered by the complexity of blockchain technology, creating barriers for both novice and experienced developers. On the one hand, novices struggle with the technicalities of blockchain connections. On the other hand, advanced developers are looking for ways to create sophisticated, customized solutions while saving time and money.
 
 **Solutions by Audience:**
-- _For Novice Developers_, FileBuild revolutionizes backend interaction by converting complex blockchain operations into user-friendly API calls, paired with an intuitive interface. This approach demystifies blockchain technology, allowing beginners to focus on creative aspects without delving into the technicalities, thus making Dapp development accessible and less intimidating.
-- _For Advanced Developers_, FileBuild offers an array of advanced features and customization options. It provides the necessary tools to build bespoke, sophisticated Dapp functionalities efficiently. This flexibility caters to the nuanced needs of experienced developers, enabling them to create complex Dapps with enhanced efficiency and precision.
-- _For All Users_, FileBuild streamlines the entire Dapp development process, offering straightforward frontend development tools, including pre-built templates and intuitive design elements. It ensures a seamless integration of frontend ease with powerful backend capabilities, delivering a comprehensive development experience that caters to users of all skill levels. 
+- _For Novice Developers_, InterBuild revolutionizes backend interaction by converting complex blockchain operations into user-friendly API calls, paired with an intuitive interface. This approach demystifies blockchain technology, allowing beginners to focus on creative aspects without delving into the technicalities, thus making Dapp development accessible and less intimidating.
+- _For Advanced Developers_, InterBuild offers an array of advanced features and customization options. It provides the necessary tools to build bespoke, sophisticated Dapp functionalities efficiently. This flexibility caters to the nuanced needs of experienced developers, enabling them to create complex Dapps with enhanced efficiency and precision.
+- _For All Users_, InterBuild streamlines the entire Dapp development process, offering straightforward frontend development tools, including pre-built templates and intuitive design elements. It ensures a seamless integration of frontend ease with powerful backend capabilities, delivering a comprehensive development experience that caters to users of all skill levels. 
 
 
-#### Benefits of FileBuild:
+#### Benefits of InterBuild:
 
-FileBuild offers a comprehensive suite of benefits, transcending the traditional limitations of no-code platforms : 
+InterBuild offers a comprehensive suite of benefits, transcending the traditional limitations of no-code platforms: 
 - _Ease of Use:_ By turning complex blockchain interactions into user-friendly workflows, it opens up Dapp development to a wider audience.
 - _Customizability:_ The plugin provides a range of API calls and interfaces to Polkadot functions, catering to the nuanced needs of experienced developers.
-- _Efficiency in Development:_ Reducing the time and effort required for both backend and frontend development, FileBuild accelerates the Dapp creation process.
+- _Efficiency in Development:_ Reducing the time and effort required for both backend and frontend development, InterBuild accelerates the Dapp creation process.
 - _Enhanced User Experience:_ With a focus on intuitive design elements and templates, the plugin ensures that the end-users have a seamless experience when engaging with the Dapps. 
 
 #### How our project relates to Polkadot 
@@ -42,7 +42,7 @@ FileBuild offers a comprehensive suite of benefits, transcending the traditional
 Our project, focusing on no-code plugin development for blockchain applications, integrates seamlessly with Polkadot to leverage its robust, interoperable, and scalable infrastructure. By building on Polkadot, we enable users to create decentralized applications (DApps) that can interoperate across various blockchains in the Polkadot ecosystem. This integration allows for a wider range of functionalities and a broader audience reach. Our solution aims to simplify the development process, making blockchain technology more accessible, and to enhance the Polkadot ecosystem by providing an intuitive platform for DApp creation.
 We have chosen to focus on Polkadot due to its established stability and wide-reaching ecosystem, which aligns more closely with our project's current objectives and target audience, as opposed to the more experimental nature of Kusama and the blockchain creation focus of Substrate.
 
-#### Why your team is interested in creating this project 
+#### Why our team is interested in creating this project 
 
 Our team is passionate about democratizing blockchain technology. We believe in its transformative potential and want to make it accessible to a wider audience, regardless of their technical expertise. By creating this project, we aim to simplify the development of decentralized applications, fostering innovation and empowering users to build solutions that can have a real impact in various sectors. This project reflects our commitment to bridging the gap between complex blockchain technology and practical, user-friendly applications.
 
@@ -58,10 +58,12 @@ We expect the teams to already have a solid idea about your project's expected f
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
-Things that shouldn’t be part of the application (see also our [FAQ](../docs/faq.md)):
-- The (future) tokenomics of your project 
-- For non-infrastructure projects—deployment and hosting costs, maintenance or audits
-- Business-oriented activities (marketing, business planning), events or outreach
+How It Works and Its Use of [name of the blockchain]:
+
+[name] leverages the capabilities of [name of the blockchain] through a combination of JSON-API calls and pre-configured workflow templates. It transforms complex blockchain actions, like smart contract operations and token transactions, into simpler, manageable API calls. These are smoothly integrated into Bubble.io’s no-code environment, making it possible for both technical and non-technical users to efficiently create and manage Dapps on [name of the blockchain]. 
+For a deeper insight into the architecture and technical workings of [name], please refer to the accompanying architecture document present on the next page : 
+link to the architecture diagram: [Architecture diagram](https://www.canva.com/design/DAF6tIbB3Y4/_tEqORPl4CXR4Sr6ynPqGQ/view?utm_content=DAF6tIbB3Y4&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
+
 
 ### Ecosystem Fit
 
@@ -78,13 +80,13 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team members
 
-Barth Houot - CEO of FileBuild  
+Barth Houot - CEO of InterBuild  
 
-Enzo Soyer - COO of FileBuild 
+Enzo Soyer - COO of InterBuild 
 
-Gabriel Benillouche - CTO of FileBuild 
+Gabriel Benillouche - CTO of InterBuild 
 
-Arthur Kieffer - Bubble.io plugin Developer at FileBuild 
+Arthur Kieffer - Bubble.io plugin Developer at InterBuild 
 
 ### Contact
 
