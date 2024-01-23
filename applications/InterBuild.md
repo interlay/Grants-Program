@@ -3,7 +3,7 @@
 
 - **Project Name:** InterBuild 
 - **Team Name:** Adapptable
-- **Payment Address:** BTC, Ethereum (USDT/USDC/DAI) or Polkadot/Kusama (aUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
+- **Payment Address:** 0xaa655A4E931EBd0C4DB8C0148D879831E6E94694 (Ethereum - USDT) 
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** `1`
 
 
@@ -32,16 +32,19 @@ Please provide the following:
 #### Benefits of FileBuild:
 
 FileBuild offers a comprehensive suite of benefits, transcending the traditional limitations of no-code platforms : 
-Ease of Use: By turning complex blockchain interactions into user-friendly workflows, it opens up Dapp development to a wider audience.
-Customizability: The plugin provides a range of API calls and interfaces to Polkadot functions, catering to the nuanced needs of experienced developers.
-Efficiency in Development: Reducing the time and effort required for both backend and frontend development, FileBuild accelerates the Dapp creation process.
-Enhanced User Experience: With a focus on intuitive design elements and templates, the plugin ensures that the end-users have a seamless experience when engaging with the Dapps. 
+- _Ease of Use:_ By turning complex blockchain interactions into user-friendly workflows, it opens up Dapp development to a wider audience.
+- _Customizability:_ The plugin provides a range of API calls and interfaces to Polkadot functions, catering to the nuanced needs of experienced developers.
+- _Efficiency in Development:_ Reducing the time and effort required for both backend and frontend development, FileBuild accelerates the Dapp creation process.
+- _Enhanced User Experience:_ With a focus on intuitive design elements and templates, the plugin ensures that the end-users have a seamless experience when engaging with the Dapps. 
 
+#### How our project relates to Polkadot 
 
 Our project, focusing on no-code plugin development for blockchain applications, integrates seamlessly with Polkadot to leverage its robust, interoperable, and scalable infrastructure. By building on Polkadot, we enable users to create decentralized applications (DApps) that can interoperate across various blockchains in the Polkadot ecosystem. This integration allows for a wider range of functionalities and a broader audience reach. Our solution aims to simplify the development process, making blockchain technology more accessible, and to enhance the Polkadot ecosystem by providing an intuitive platform for DApp creation.
 We have chosen to focus on Polkadot due to its established stability and wide-reaching ecosystem, which aligns more closely with our project's current objectives and target audience, as opposed to the more experimental nature of Kusama and the blockchain creation focus of Substrate.
 
-- An indication of why your team is interested in creating this project.
+#### Why your team is interested in creating this project 
+
+Our team is passionate about democratizing blockchain technology. We believe in its transformative potential and want to make it accessible to a wider audience, regardless of their technical expertise. By creating this project, we aim to simplify the development of decentralized applications, fostering innovation and empowering users to build solutions that can have a real impact in various sectors. This project reflects our commitment to bridging the gap between complex blockchain technology and practical, user-friendly applications.
 
 ### Project Details
 
