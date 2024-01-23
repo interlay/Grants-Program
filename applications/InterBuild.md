@@ -1,15 +1,11 @@
 # W3F Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
->
-> See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
 
-- **Project Name:** Name of your project (e.g. DuoSwap Module)
-- **Team Name:** Legal name of your team (e.g. Duo)
+- **Project Name:** InterBuild 
+- **Team Name:** Adapptable
 - **Payment Address:** BTC, Ethereum (USDT/USDC/DAI) or Polkadot/Kusama (aUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** `1`
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
 
@@ -21,9 +17,13 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 Please provide the following:
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
+**InterBuild** is an innovative plugin for Bubble.io, designed to facilitate the development of decentralized applications (Dapps) on Polkadot. It serves as a bridge for both novices and experienced developers, streamlining the integration of blockchain technology into web applications. 
+
 - A brief description of your project.
-- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
+
+Our project, focusing on no-code plugin development for blockchain applications, integrates seamlessly with Polkadot to leverage its robust, interoperable, and scalable infrastructure. By building on Polkadot, we enable users to create decentralized applications (DApps) that can interoperate across various blockchains in the Polkadot ecosystem. This integration allows for a wider range of functionalities and a broader audience reach. Our solution aims to simplify the development process, making blockchain technology more accessible, and to enhance the Polkadot ecosystem by providing an intuitive platform for DApp creation.
+We have chosen to focus on Polkadot due to its established stability and wide-reaching ecosystem, which aligns more closely with our project's current objectives and target audience, as opposed to the more experimental nature of Kusama and the blockchain creation focus of Substrate.
+
 - An indication of why your team is interested in creating this project.
 
 ### Project Details
@@ -146,15 +146,66 @@ For each milestone,
 | 3. | Substrate module: Z | We will create a Substrate module that will... |  
 | 4. | Substrate chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
 
+### Milestone 1 — API Integration and Basic Workflow Templates 
 
-### Milestone 2 Example — Additional features
+- **Estimated duration:** 1 month
+- **FTE:**  3
+- **Costs:** 3,600 USD
+- **Brief Description:** Implement fundamental Polkadot blockchain operations through API calls and create standard workflow templates.
+- **Completion Measure:** Successful implementation of five essential Polkadot blockchain operations as modular workflow actions in Bubble.io. These actions will allow users to easily perform basic operations such as wallet connections and simple transactions. These will be published with our documentation on our Github repo. 
 
-- **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can make API calls to Polkadot using the integrated Bubbl.io workflow actions. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 
-...
+### Milestone 2 — Advanced Smart Contract Features 
 
+- **Estimated duration:** 2 weeks 
+- **FTE:**  2
+- **Costs:** 2,400 USD
+- **Brief Description:** Develop advanced smart contract capabilities, including custom contract templates.
+- **Completion Measure:** Develop a suite of 10 advanced smart contract workflow templates for complex blockchain applications. These templates will enable developers to deploy and interact with sophisticated smart contracts within their Dapps. Documentation on our Github repo. 
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can create and use integrated smart contracts on Bubbl.io. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+
+### Milestone 3 — Comprehensive DevX Design
+
+- **Estimated duration:** 2 weeks 
+- **FTE:**  2
+- **Costs:** 1,800 USD
+- **Brief Description:** Design a comprehensive and user-friendly plugin interface for both novice and advanced developers.
+- **Completion Measure:** A fully developed UI/UX plugin prototype, having undergone testing by ecosystem developers, with adaptations made based on their feedback. This process will ensure the interface's ease of use and functionality for both novice and advanced developers. 
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | Previous documentation updated following this milestone's changes. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+
+### Milestone 4 — Security Enhancements and Wallet Integration
+
+- **Estimated duration:** 2 weeks 
+- **FTE:**  2
+- **Costs:** 2,200 USD
+- **Brief Description:** Enhance security features and integrate wallet connectivity options.
+- **Completion Measure:** Successful integration of two major wallet services and passing of a security audit that checks for vulnerabilities and secure transaction handling. Documentation on our Github repo. The plugin will then be published in the Bubbl.io library. 
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how security is handled in our plugin and how a user can create and manage wallets on Bubbl.io |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an **article** on our whole plugin, its functionnalities and advantages. |
 
 ## Future Plans
 
@@ -166,7 +217,7 @@ Please include here
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Twitter
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
