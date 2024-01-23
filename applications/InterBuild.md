@@ -70,7 +70,7 @@ Arthur Kieffer - Bubble.io plugin Developer at FileBuild
 
 - **Contact Name:**Barthélemy HOUOT  
 - **Contact Email:** barthelemy.houot@gmail.com 
-- **Website:** [adapptable.dev](adapptable.dev)
+- **Website:** [adapptable.dev](https://adapptable.dev)
 
 ### Legal Structure
 
