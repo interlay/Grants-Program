@@ -234,10 +234,46 @@ For each milestone,
 
 ## Future Plans
 
-Please include here
+Our plans for InterBuild are to ensure its continuous evolution and to solidify its position as a leading tool for Polkadot Dapp development. The roadmap post-grant is structured as follows:
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+**Product Enhancement and Feature Updates:**
+Regularly update InterBuild with the latest Polkadot blockchain developments to maintain state-of-the-art functionality.
+Roll out additional smart contract templates and workflow actions to expand the range and depth of applications users can build.
+Stay responsive to community feedback, ensuring that updates align with user needs and industry trends.
+
+
+**Community Growth and Engagement:**
+Strengthen the InterBuild user community through forums, social media, and ongoing interactive events.
+Launch a developer ambassador program to foster a network of InterBuild advocates who can extend outreach and provide support within the community.
+Establish a program for user-generated content, incentivizing the creation of tutorials, templates, and case studies to aid new users.
+
+
+**Education and Resources:**
+Develop comprehensive learning materials, including documentation, video tutorials, and online courses, to lower the entry barrier for new users.
+Partner with educational institutions and online learning platforms to integrate InterBuild into their curricula and offerings.
+
+
+**Market Expansion:**
+Identify and pursue new market opportunities, including targeting non-traditional blockchain sectors such as art, education, and small businesses.
+Attend and present at industry conferences to increase visibility and attract new users from various professional backgrounds.
+
+
+**Sustainability and Revenue Growth:**
+Sustainability will be achieved through the subscription and one-time purchase models. Revenue from these streams will fund ongoing development, marketing, and community engagement efforts.
+Explore additional revenue models, such as premium support services, enterprise licenses, and partnership programs.
+
+
+**Strategic Partnerships and Collaborations:**
+Cultivate partnerships with other Polkadot ecosystem projects to create integrations that enhance InterBuild's capabilities.
+Work with blockchain influencers and thought leaders to increase InterBuild's visibility and credibility.
+
+
+**Long-term Vision and Innovation:**
+Invest in research and development to anticipate future blockchain trends and prepare InterBuild to meet those emerging needs.
+Contribute to the Polkadot ecosystem by participating in development initiatives, hackathons, and open-source collaborations.
+
+
+Our commitment is to ensure InterBuild not only thrives as a tool but also contributes to the growth and diversification of the Polkadot ecosystem. The completion of the grant period will mark the beginning of InterBuild’s next phase of growth, where we will leverage our initial success to build a sustainable, innovative, and community-focused product.
 
 
 ## Additional Information :heavy_plus_sign:
