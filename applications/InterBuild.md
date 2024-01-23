@@ -119,13 +119,16 @@ Links to precedent projects:
 - Smart Deploy, a Tenk studio product: [https://www.smartdeploy.dev/](https://www.smartdeploy.dev/)
  -Tenk open source NFT standard: [https://tenk.app/](https://tenk.app/)
 - AstroDao, a Tenk studio product: [https://astrodao.com/](https://astrodao.com/)
-- Cube, one of our collaborator's company in no-code plugin development: https://en.cube.fr/ 
+- Cube, one of our collaborator's company in no-code plugin development: [https://en.cube.fr/ ](https://en.cube.fr/)
 
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+Barth Houot: [LinkedIn](https://www.linkedin.com/in/barth%C3%A9lemy-houot-64baa019b/)
+Enzo Soyer: [LinkedIn](https://www.linkedin.com/in/enzo-soyer/)
+Gabriel Benillouche: [LinkedIn](https://www.linkedin.com/in/gbenillouche/)
+Arthur Kieffer: [LinkedIn](https://www.linkedin.com/in/arthur-kieffer/)
+
 
 ## Development Status :open_book:
 
