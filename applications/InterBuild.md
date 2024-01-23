@@ -58,12 +58,16 @@ We expect the teams to already have a solid idea about your project's expected f
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
-How It Works and Its Use of [name of the blockchain]:
-
-[name] leverages the capabilities of [name of the blockchain] through a combination of JSON-API calls and pre-configured workflow templates. It transforms complex blockchain actions, like smart contract operations and token transactions, into simpler, manageable API calls. These are smoothly integrated into Bubble.io’s no-code environment, making it possible for both technical and non-technical users to efficiently create and manage Dapps on [name of the blockchain]. 
-For a deeper insight into the architecture and technical workings of [name], please refer to the accompanying architecture document present on the next page : 
+**How It Works and Its Use of Polkadot:** 
+InterBuild leverages the capabilities of Polkadot through a combination of **JSON-API calls and pre-configured workflow templates**. It transforms complex blockchain actions, like smart contract operations and token transactions, into simpler, manageable API calls. These are smoothly integrated into Bubble.io’s no-code environment, making it possible for both technical and non-technical users to efficiently create and manage Dapps on Polkadot. 
+For a deeper insight into the architecture and technical workings of InterBuild, please refer to the accompanying architecture document present on the next page : 
 link to the architecture diagram: [Architecture diagram](https://www.canva.com/design/DAF6tIbB3Y4/_tEqORPl4CXR4Sr6ynPqGQ/view?utm_content=DAF6tIbB3Y4&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 
+**Technology Stack Overview:**
+Our project leverages Bubble's no-code platform for plugin development. This choice allows us to create functional, user-friendly interfaces without traditional coding. Bubble's visual programming environment is central to our development process, enabling rapid prototyping and deployment. We also utilize Bubble's native functionalities and integrations for backend processes, ensuring seamless interaction with the Polkadot blockchain. This approach aligns with our goal to democratize blockchain application development, making it accessible to a wider audience.
+
+**Project Limitations:**
+Focusing on Bubble's no-code platform, our project is tailored for simplicity and user accessibility. This approach inherently limits the ability to implement highly complex or deeply customized blockchain functionalities. The plugin is designed primarily for Polkadot's ecosystem, and may not immediately support other blockchains. While offering ease of use, the project will not cater to developers seeking in-depth, code-level control over blockchain interactions or those needing advanced, specialized blockchain features beyond the scope of Bubble's capabilities.
 
 ### Ecosystem Fit
 
