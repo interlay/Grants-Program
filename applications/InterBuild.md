@@ -19,7 +19,24 @@ Please provide the following:
 
 **InterBuild** is an innovative plugin for Bubble.io, designed to facilitate the development of decentralized applications (Dapps) on Polkadot. It serves as a bridge for both novices and experienced developers, streamlining the integration of blockchain technology into web applications. 
 
-- A brief description of your project.
+#### What Problems It Solves, How It Solves Them, and Who It Serves
+
+**The Problem:** The development of Dapps is often hindered by the complexity of blockchain technology, creating barriers for both novice and experienced developers. On the one hand, novices struggle with the technicalities of blockchain connections. On the other hand, advanced developers are looking for ways to create sophisticated, customized solutions while saving time and money.
+
+**Solutions by Audience:**
+- _For Novice Developers_, FileBuild revolutionizes backend interaction by converting complex blockchain operations into user-friendly API calls, paired with an intuitive interface. This approach demystifies blockchain technology, allowing beginners to focus on creative aspects without delving into the technicalities, thus making Dapp development accessible and less intimidating.
+- _For Advanced Developers_, FileBuild offers an array of advanced features and customization options. It provides the necessary tools to build bespoke, sophisticated Dapp functionalities efficiently. This flexibility caters to the nuanced needs of experienced developers, enabling them to create complex Dapps with enhanced efficiency and precision.
+- _For All Users_, FileBuild streamlines the entire Dapp development process, offering straightforward frontend development tools, including pre-built templates and intuitive design elements. It ensures a seamless integration of frontend ease with powerful backend capabilities, delivering a comprehensive development experience that caters to users of all skill levels. 
+
+
+#### Benefits of FileBuild:
+
+FileBuild offers a comprehensive suite of benefits, transcending the traditional limitations of no-code platforms : 
+Ease of Use: By turning complex blockchain interactions into user-friendly workflows, it opens up Dapp development to a wider audience.
+Customizability: The plugin provides a range of API calls and interfaces to Polkadot functions, catering to the nuanced needs of experienced developers.
+Efficiency in Development: Reducing the time and effort required for both backend and frontend development, FileBuild accelerates the Dapp creation process.
+Enhanced User Experience: With a focus on intuitive design elements and templates, the plugin ensures that the end-users have a seamless experience when engaging with the Dapps. 
+
 
 Our project, focusing on no-code plugin development for blockchain applications, integrates seamlessly with Polkadot to leverage its robust, interoperable, and scalable infrastructure. By building on Polkadot, we enable users to create decentralized applications (DApps) that can interoperate across various blockchains in the Polkadot ecosystem. This integration allows for a wider range of functionalities and a broader audience reach. Our solution aims to simplify the development process, making blockchain technology more accessible, and to enhance the Polkadot ecosystem by providing an intuitive platform for DApp creation.
 We have chosen to focus on Polkadot due to its established stability and wide-reaching ecosystem, which aligns more closely with our project's current objectives and target audience, as opposed to the more experimental nature of Kusama and the blockchain creation focus of Substrate.
